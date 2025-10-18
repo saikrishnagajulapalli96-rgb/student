@@ -4,6 +4,7 @@
     "name": "Aarav Kumar",
     "class": "1st Year",
     "section": "A",
+    "date": "2025-10-14",
     "present": "Yes",
     "absent": "No"
   },
@@ -12,22 +13,25 @@
     "name": "Diya Sharma",
     "class": "1st Year",
     "section": "A",
-    "present": "Yes",
-    "absent": "No"
+    "date": "2025-10-14",
+    "present": "No",
+    "absent": "Yes"
   },
   {
     "rollno": "1003",
     "name": "Rohan Verma",
     "class": "1st Year",
     "section": "A",
-    "present": "No",
-    "absent": "Yes"
+    "date": "2025-10-14",
+    "present": "Yes",
+    "absent": "No"
   },
   {
     "rollno": "1004",
     "name": "Sneha Reddy",
     "class": "1st Year",
     "section": "B",
+    "date": "2025-10-15",
     "present": "Yes",
     "absent": "No"
   },
@@ -36,6 +40,7 @@
     "name": "Karthik Nair",
     "class": "1st Year",
     "section": "B",
+    "date": "2025-10-15",
     "present": "No",
     "absent": "Yes"
   },
@@ -44,6 +49,7 @@
     "name": "Priya Das",
     "class": "1st Year",
     "section": "B",
+    "date": "2025-10-15",
     "present": "Yes",
     "absent": "No"
   },
@@ -52,22 +58,25 @@
     "name": "Rahul Mehta",
     "class": "1st Year",
     "section": "C",
-    "present": "No",
-    "absent": "Yes"
+    "date": "2025-10-16",
+    "present": "Yes",
+    "absent": "No"
   },
   {
     "rollno": "1008",
     "name": "Neha Patel",
     "class": "1st Year",
     "section": "C",
-    "present": "Yes",
-    "absent": "No"
+    "date": "2025-10-16",
+    "present": "No",
+    "absent": "Yes"
   },
   {
     "rollno": "1009",
     "name": "Vikram Singh",
     "class": "1st Year",
     "section": "C",
+    "date": "2025-10-16",
     "present": "Yes",
     "absent": "No"
   },
@@ -76,7 +85,8 @@
     "name": "Ananya Iyer",
     "class": "1st Year",
     "section": "C",
-    "present": "No",
-    "absent": "Yes"
+    "date": "2025-10-16",
+    "present": "Yes",
+    "absent": "No"
   }
 ]
