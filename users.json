@@ -1,92 +1,81 @@
 [
-  {
-    "rollno": "1001",
-    "name": "Aarav Kumar",
-    "class": "1st Year",
-    "section": "A",
-    "date": "2025-10-14",
-    "present": "Yes",
-    "absent": "No"
-  },
-  {
-    "rollno": "1002",
-    "name": "Diya Sharma",
-    "class": "1st Year",
-    "section": "A",
-    "date": "2025-10-14",
-    "present": "No",
-    "absent": "Yes"
-  },
-  {
-    "rollno": "1003",
-    "name": "Rohan Verma",
-    "class": "1st Year",
-    "section": "A",
-    "date": "2025-10-14",
-    "present": "Yes",
-    "absent": "No"
-  },
-  {
-    "rollno": "1004",
-    "name": "Sneha Reddy",
-    "class": "1st Year",
-    "section": "B",
-    "date": "2025-10-15",
-    "present": "Yes",
-    "absent": "No"
-  },
-  {
-    "rollno": "1005",
-    "name": "Karthik Nair",
-    "class": "1st Year",
-    "section": "B",
-    "date": "2025-10-15",
-    "present": "No",
-    "absent": "Yes"
-  },
-  {
-    "rollno": "1006",
-    "name": "Priya Das",
-    "class": "1st Year",
-    "section": "B",
-    "date": "2025-10-15",
-    "present": "Yes",
-    "absent": "No"
-  },
-  {
-    "rollno": "1007",
-    "name": "Rahul Mehta",
-    "class": "1st Year",
-    "section": "C",
-    "date": "2025-10-16",
-    "present": "Yes",
-    "absent": "No"
-  },
-  {
-    "rollno": "1008",
-    "name": "Neha Patel",
-    "class": "1st Year",
-    "section": "C",
-    "date": "2025-10-16",
-    "present": "No",
-    "absent": "Yes"
-  },
-  {
-    "rollno": "1009",
-    "name": "Vikram Singh",
-    "class": "1st Year",
-    "section": "C",
-    "date": "2025-10-16",
-    "present": "Yes",
-    "absent": "No"
-  },
-  {
-    "rollno": "1010",
-    "name": "Ananya Iyer",
-    "class": "1st Year",
-    "section": "C",
-    "date": "2025-10-16",
-    "present": "Yes",
-    "absent": "No"
-  }
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-15", "present": "B", "absent": "P" },
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-16", "present": "P", "absent": "B" },
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-18", "present": "B", "absent": "P" },
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-19", "present": "P", "absent": "B" },
+  { "rollno": "1001", "name": "Aarav Kumar", "class": "1st Year", "section": "A", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-15", "present": "P", "absent": "B" },
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-16", "present": "B", "absent": "P" },
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-19", "present": "B", "absent": "P" },
+  { "rollno": "1002", "name": "Diya Sharma", "class": "1st Year", "section": "A", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-15", "present": "B", "absent": "P" },
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-16", "present": "P", "absent": "B" },
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-18", "present": "B", "absent": "P" },
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-19", "present": "P", "absent": "B" },
+  { "rollno": "1003", "name": "Rohan Verma", "class": "1st Year", "section": "A", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-15", "present": "P", "absent": "B" },
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-16", "present": "P", "absent": "B" },
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-17", "present": "B", "absent": "P" },
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-19", "present": "B", "absent": "P" },
+  { "rollno": "1004", "name": "Sneha Reddy", "class": "1st Year", "section": "B", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-15", "present": "B", "absent": "P" },
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-16", "present": "B", "absent": "P" },
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-19", "present": "P", "absent": "B" },
+  { "rollno": "1005", "name": "Karthik Nair", "class": "1st Year", "section": "B", "date": "2025-10-20", "present": "B", "absent": "P" },
+
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-15", "present": "P", "absent": "B" },
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-16", "present": "B", "absent": "P" },
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-19", "present": "B", "absent": "P" },
+  { "rollno": "1006", "name": "Priya Das", "class": "1st Year", "section": "B", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-14", "present": "B", "absent": "P" },
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-15", "present": "P", "absent": "B" },
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-16", "present": "P", "absent": "B" },
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-17", "present": "B", "absent": "P" },
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-19", "present": "P", "absent": "B" },
+  { "rollno": "1007", "name": "Rahul Mehta", "class": "1st Year", "section": "C", "date": "2025-10-20", "present": "B", "absent": "P" },
+
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-15", "present": "B", "absent": "P" },
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-16", "present": "P", "absent": "B" },
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-19", "present": "B", "absent": "P" },
+  { "rollno": "1008", "name": "Neha Patel", "class": "1st Year", "section": "C", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-15", "present": "P", "absent": "B" },
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-16", "present": "B", "absent": "P" },
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-17", "present": "P", "absent": "B" },
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-18", "present": "B", "absent": "P" },
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-19", "present": "P", "absent": "B" },
+  { "rollno": "1009", "name": "Vikram Singh", "class": "1st Year", "section": "C", "date": "2025-10-20", "present": "P", "absent": "B" },
+
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-14", "present": "P", "absent": "B" },
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-15", "present": "B", "absent": "P" },
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-16", "present": "P", "absent": "B" },
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-17", "present": "B", "absent": "P" },
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-18", "present": "P", "absent": "B" },
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-19", "present": "P", "absent": "B" },
+  { "rollno": "1010", "name": "Ananya Iyer", "class": "1st Year", "section": "C", "date": "2025-10-20", "present": "P", "absent": "B" }
 ]
